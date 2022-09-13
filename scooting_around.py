@@ -1,8 +1,8 @@
 import boto3
 import pandas as pd
 
-aws_id = 'AKIA2N6OE5X4S6JEGC4Y'
-aws_key = '5DD1Y8mtEeg5Z3bbCLtOxeeLMSl9WMvKPNq5q4Fa'
+aws_id = '__'
+aws_key = '__'
 
 s3 = boto3.client(
     's3',
